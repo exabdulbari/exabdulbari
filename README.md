@@ -56,8 +56,8 @@
 
 ### 📫 Let's Connect
 
-/*- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📄 [My Resume](https://your-resume-link.com)*/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📄 [My Resume](https://your-resume-link.com)
 - 📬 Email: exabdulbari@gmail.com
 
 ---
