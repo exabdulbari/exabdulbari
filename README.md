@@ -49,6 +49,6 @@ Step-by-step guides for:
 
 ## 🔹 Contact / Connect
 - [LinkedIn](your-linkedin-link)  
-- [Email](exabdulbari@gmail.com)  
+- Email: exabdulbari@gmail.com  
 
 I am actively seeking **entry-level IT Support opportunities** where I can apply my learning, scripts, and problem-solving skills in a professional environment.
