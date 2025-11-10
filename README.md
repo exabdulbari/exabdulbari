@@ -17,32 +17,26 @@ This profile showcases my learning journey, practical scripts, and configuration
 
 ## 🔹 Key Repositories
 
-### 1️⃣ [IT-Automation-Scripts](link-to-your-repo)
+### 1️⃣ [IT-Automation-Scripts](https://github.com/exabdulbari/IT-Automation-Scripts)
 Beginner-friendly PowerShell scripts I created to automate common IT tasks:  
 - Check disk space  
 - Clean temporary files  
 - Ping multiple devices on a network  
 
-**Highlights:** practical scripts, humanized README, HOW_TO_RUN guide  
-
 ---
 
-### 2️⃣ [IT-Learning-Log](link-to-your-repo)
+### 2️⃣ [IT-Learning-Log](https://github.com/exabdulbari/IT-Learning-Log)
 My personal IT learning journal containing notes and exercises on:  
 - Networking basics  
 - Windows troubleshooting  
 - Linux command line  
 
-**Highlights:** demonstrates learning process, organization, and documentation skills  
-
 ---
 
-### 3️⃣ [Configuration-Guides](link-to-your-repo) *(Optional)*
+### 3️⃣ [Configuration-Guides](https://github.com/exabdulbari/Configuration-Guides)
 Step-by-step guides for:  
 - Setting up Windows environments  
 - Configuring local networks  
-
-**Highlights:** initiative and ability to create useful reference materials  
 
 ---
 
@@ -55,6 +49,6 @@ Step-by-step guides for:
 
 ## 🔹 Contact / Connect
 - [LinkedIn](your-linkedin-link)  
-- [Email](your-email)  
+- [Email](exabdulbari@gmail.com)  
 
 I am actively seeking **entry-level IT Support opportunities** where I can apply my learning, scripts, and problem-solving skills in a professional environment.
