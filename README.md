@@ -39,7 +39,12 @@ Step-by-step guides for:
 - Configuring local networks  
 
 ---
-<span style="color:#1E90FF; font-weight:700;">4</span> IT-Support-Lab
+
+### 4️⃣ [IT-Support-Lab](https://github.com/exabdulbari/IT-Support-Lab)
+- Simulated Windows login issues (profile errors, domain connectivity, credential failures) and performed full diagnosis + resolution.
+- Troubleshot printer problems including spooler resets, driver reinstalls, and reconnecting network printers.
+- Recreated common end-user issues—slow PCs, network drops, application errors—and documented root causes with step-by-step fixes
+
 ---
 
 ## 🔹 How I Work
