@@ -39,6 +39,8 @@ Step-by-step guides for:
 - Configuring local networks  
 
 ---
+<span style="color:#1E90FF; font-weight:700;">4</span> IT-Support-Lab
+---
 
 ## 🔹 How I Work
 - Hands-on practice in home lab / virtual machines  
