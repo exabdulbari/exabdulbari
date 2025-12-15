@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Bari 👋
 
-Aspiring IT Support professional | Beginner in scripting & networking | Passionate about learning practical IT skills  
+Entry-level IT Support & SOC Tier-1 candidate with hands-on experience in Windows Server, Active Directory, Group Policy, logging hardening, and troubleshooting. These labs demonstrate real skills in system administration, endpoint security, and incident response readiness.
 
 I am actively building my IT knowledge through hands-on projects, troubleshooting exercises, and automation scripts.  
 This profile showcases my learning journey, practical scripts, and configuration guides that demonstrate my ability to solve IT problems.
