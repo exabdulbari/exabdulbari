@@ -58,7 +58,7 @@ Beginner-friendly PowerShell scripts I created to automate common IT tasks:
 ---
 
 ## 🔹 Contact / Connect
-- [LinkedIn](your-linkedin-link)  
+- [LinkedIn](https://www.linkedin.com/in/abdul-bari-mohd-niza-b740401ab/)  
 - Email: exabdulbari@gmail.com  
 
 I am actively seeking **entry-level IT Support opportunities** where I can apply my learning, scripts, and problem-solving skills in a professional environment.
